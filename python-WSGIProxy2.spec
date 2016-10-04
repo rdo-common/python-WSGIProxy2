@@ -1,7 +1,7 @@
 # Created by pyp2rpm-1.1.0b
 %global pypi_name WSGIProxy2
 %global package_name wsgiproxy
-%global with_python3 1
+%global with_python3 0
 
 Name:           python-%{pypi_name}
 Version:        0.4.1
